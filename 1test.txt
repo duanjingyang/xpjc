@@ -1,0 +1,16 @@
+< ! --[if IE] >
+< link type="text/css" rel="stylesheet" href="style_ie.css" / >
+< ! [endif] -- >assssssssssss
+
+
+mkdir test  
+cd test  
+git init  
+touch README  
+git add README  
+git commit -m 'first commit'  
+git remote add origin git@github.com:lzjun/test.git  
+git push -u origin master 
+
+
+git remote add origin git@github.com:duanjingyang/xpjc.gitgit  push origin master 
